@@ -5,6 +5,7 @@ import App from "./App.vue";
 import router from "./router";
 
 // 项目上线提示
+// 这里新增一行测试
 Vue.config.productionTip = false;
 
 new Vue({
